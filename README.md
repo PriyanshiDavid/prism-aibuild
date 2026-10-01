@@ -33,4 +33,4 @@ The notebook uses the public [AI4I 2020 Predictive Maintenance Dataset](https://
 
 ## Team
 
-Alicia, Priyanshi David, Ibrahim Duwila, Heidy Wandurraga, Oyku Madenci
+ Ibrahim Duwila, Priyanshi David, Heidy Wandurraga, Oyku Madenci, Alicia, 
